@@ -19,7 +19,7 @@ module.exports = {
     poolPort : 8124,
     poolPvtKey : '<pool private key>',
     poolPublicRS : '<pool public key RS format>',
-    poolPublic : '<pool public key numeric format',
+    poolPublic : '<pool public key numeric format>',
     poolFeePaymentAddr : '<pool fee account numeric format>',
     defaultPaymentDeadline : 1440,
     poolFeePaymentTxFeeNQT : 100000000,
